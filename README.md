@@ -1,10 +1,11 @@
+![Banner](https://github.com/SkullOpener01/pankajyadav/blob/master/pankaj%20Banner.png)
+
 # 👋 Hey there, Pankaj Yadav!
 
 🚀 **Java Full Stack Developer | Angular & Spring Boot | Cloud & Microservices Enthusiast**
 
-💡 Passionate about building scalable web apps, solving complex backend challenges, and crafting seamless user experiences. From **microservices to front-end magic**, I turn ideas into reality with **Java, Spring Boot, Angular, and cloud technologies**.
+💡 I specialize in **building scalable web applications**, solving **complex backend challenges**, and creating **seamless user experiences**. With expertise in **Java, Spring Boot, Angular, and cloud technologies**, I focus on developing **efficient, high-performance solutions** for modern digital needs.
 
-![Banner](https://raw.githubusercontent.com/your-github-username/your-repo/main/pankaj%20Banner.png)
 
 ---
 
@@ -15,9 +16,9 @@
 🔹 **Databases & Storage:**  
 🐘 `PostgreSQL` | 🍃 `MongoDB` | 🔥 `Redis`  
 🔹 **DevOps & Cloud:**  
-🐳 `Docker` | ☁️ `AWS` | 🏗️ `Jenkins` | 🐧 `Ubuntu` | 🌍 `VPS Deployment (CentOS, Debian, Ubuntu)`  
+🐳 `Docker` | ☁️ `AWS` | 🏗️ `Jenkins` | 🌍 `VPS Deployment (CentOS, Debian, Ubuntu)`  
 🔹 **Version Control & Tools:**  
-🌿 `Git` | 📮 `Postman` | 📜 `Swagger` | 🔄 `WebSockets`  
+🌿 `Git` | 📮 `Postman` | 📜 `Swagger` | 🔄 `WebSockets` | 🔌 `gRPC`
 
 ---
 
@@ -25,20 +26,20 @@
 
 💻 **Code, Coffee, Repeat!** Here's what I'm up to:  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=github-dark-blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=github-dark-blue)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=github-dark-blue)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkullOpener01&theme=github-dark-blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkullOpener01&show_icons=true&theme=github-dark-blue)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkullOpener01&layout=compact&theme=github-dark-blue)  
 
 ---
 
 ## 🔥 My Top Repositories
 
 ### 🚀 WebSocket Chat App
-🔗 [View Repository](https://github.com/your-github-username/websocket-chat)  
+🔗 [View Repository](https://github.com/SkullOpener01/websocket-chat)  
 💬 Real-time chat app powered by **Spring Boot, WebSockets & Angular**. Experience seamless communication!  
 
 ### 🌎 Microservices with Spring Boot
-🔗 [View Repository](https://github.com/your-github-username/microservices-demo)  
+🔗 [View Repository](https://github.com/SkullOpener01/microservices-demo)  
 🔍 A deep dive into **microservices architecture** using Spring Boot, API Gateway, and Docker.
 
 ---
